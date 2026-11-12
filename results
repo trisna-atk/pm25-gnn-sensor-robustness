@@ -1,0 +1,11 @@
+# Experimental Results
+
+This directory contains the experimental results of GraphSAGE, GCN, and GAT under normal conditions, random sensor failure, and spatially localized sensor failure.
+
+The evaluation includes:
+- MAE
+- RMSE
+- R²
+- MAE Degradation (%)
+
+Results are generated from the experimental notebook.
